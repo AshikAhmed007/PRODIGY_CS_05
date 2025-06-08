@@ -1,4 +1,4 @@
-# 🌐 Fancy Network Packet Analyzer (Python + Scapy + Rich)
+# 🌐 Network Packet Analyzer (Python + Scapy + Rich)
 
 A visually enhanced network packet analyzer built using **Scapy** and **Rich** in Python. This tool captures live packets from the network interface and displays structured, colorful packet details in the terminal.
 
